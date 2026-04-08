@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Twitter",
+    "target": "vxtwitter.com",
+    "source": "^(www\\.)?twitter\\.com"
+  },
+  {
+    "name": "X",
+    "target": "fixvx.com",
+    "source": "^(www\\.)?x\\.com"
+  },
+  {
+    "name": "TikTok",
+    "target": "tfxktok.com",
+    "source": "^(www\\.)?(\\w+\\.)?tiktok\\.com"
+  },
+  {
+    "name": "Reddit",
+    "target": "rxddit.com",
+    "source": "^(www\\.)?reddit\\.com"
+  },
+  {
+    "name": "Bluesky",
+    "target": "bskyy.app",
+    "source": "^(www\\.)?bsky\\.app"
+  },
+  {
+    "name": "Instagram",
+    "target": "kkinstagram.com",
+    "source": "^(www\\.)?instagram\\.com"
+  },
+  {
+    "name": "YouTube",
+    "target": "koutu.be",
+    "source": "^(www\\.)?((youtube\\.com)|(youtu\\.be))"
+  }
+]
